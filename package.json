@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "crazyguys prettier configuration",
+  "main": ".prettierrc",
+  "repository": "https://github.com/zmrk/prettier-config.git",
+  "author": "kimchangduk <kimchangduk92@gmail.com>",
+  "license": "MIT"
+}
