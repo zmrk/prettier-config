@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@crazyguys/prettier-config",
   "version": "1.0.0",
   "description": "crazyguys prettier configuration",
   "main": "index.json",
